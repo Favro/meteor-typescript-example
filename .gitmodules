@@ -1,0 +1,3 @@
+[submodule "packages/meteor-typescript"]
+	path = packages/meteor-typescript
+	url = https://github.com/Hansoft/meteor-typescript.git
