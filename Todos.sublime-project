@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"folder_exclude_patterns":
+			[
+				".meteor/local",
+				"packages",
+			],
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2,
+		"translate_tabs_to_spaces": true,
+		"typescript_auto_format": false,
+		"typescript_auto_indent": false,
+	},
+}

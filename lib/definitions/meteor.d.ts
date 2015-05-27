@@ -1,0 +1,1 @@
+../../packages/meteor-typescript/definitions/meteor.d.ts

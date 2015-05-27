@@ -1,0 +1,20 @@
+{
+	"files": [
+		"lib/definitions/ironrouter.d.ts",
+		"lib/definitions/jquery.d.ts",
+		"lib/definitions/meteor.d.ts",
+		"lib/definitions/underscore.d.ts",
+		"lib/collections.ts",
+		"lib/router.ts",
+
+		"server/bootstrap.ts",
+		"server/publish.ts",
+
+		"client/lib/jquery.touchwipe.ts",
+		"client/templates/app-body.ts",
+		"client/templates/auth-join.ts",
+		"client/templates/auth-signin.ts",
+		"client/templates/lists-show.ts",
+		"client/templates/todos-item.ts"
+	]
+}

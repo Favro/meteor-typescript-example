@@ -80,3 +80,7 @@
    };
  
  })(jQuery);
+
+interface JQuery {
+    touchwipe(settings?: any): void;
+}
